@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,128,255&height=300&section=header&text=Kim%20Hyoju%20|%20Embedded%20Dev&fontSize=70" />
+
 <h3 align="center">👨‍💻 Embedded Developer</h3>
 
 <h3 align="center">💻 Currently learning C & Python</h3>
