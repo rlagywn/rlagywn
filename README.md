@@ -1,7 +1,6 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Hyoju's%20GitHub&fontSize=40&animation=fadeIn&fontAlignY=30&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=45&descAlign=62"/>
 </p>
-
 
 
 <h3 align="center">👨‍💻 Embedded Developer</h3>
@@ -31,4 +30,4 @@
   </a>
 </p>
 
-<h3 align="center">✨ Fun fact: Making hardware blink before it thinks ⚡</h3>
+
