@@ -5,9 +5,6 @@
 
 <h3 align="center">👨‍💻Developer</h3>
 
-<h3 align="center">💻 Currently learning C & Python</h3>
-<h3 align="center">🚀 Developer</h3>
-
 <hr>
 
 <h3 align="left">Connect with me:</h3>
